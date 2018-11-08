@@ -1,0 +1,287 @@
+#,跟踪,状态,优先级,主题,作者,指派给,更新于
+843851,Flyme Bug管理,新建,高,[漫游][澳门][M1809][modem]澳门本地卡3 Macau必现不能注册4G， 一直注册3G，且数据不可用,田雪松,郭冰,2018-10-18 19:01
+843850,Flyme Bug管理,新建,高,[漫游][澳门][M1809][modem]单卡-CUCC4G-漫游到SmarTone MAC后PDP不激活，可以正常发送彩信，对比机M1810无此问题，必现,田雪松,郭冰,2018-10-18 18:56
+843433,Flyme Bug管理,新建,高,[漫游][澳门][M1809][modem]单卡-CMCC-不能自动漫游上4G网络，手动搜网注网后注册上4G，时间点1047,田雪松,郭冰,2018-10-17 18:07
+843429,Flyme Bug管理,新建,高,[漫游][澳门][M1809][modem]单卡-CUCC4G-注册上漫游网络后重启手机一直不注册网络，手动搜网注册后恢复，出现一次，时间点1136-1154,田雪松,郭冰,2018-10-17 18:02
+843421,Flyme Bug管理,新建,高,[漫游][澳门][M1809][网络管理]本地卡SmarTone MAC和3 Macao运营商名字显示错误，显示为CRAD，时间点和现象见截图,田雪松,郭冰,2018-10-17 17:59
+770797,Flyme Bug管理,新建,高,【M1809】【稳定性】【System monkey】20180531064700_intl_prd_lock 版本系统monkey测试出现system_app_anr,郭松婵,沈晓凯,2018-06-05 10:23
+770314,Flyme Bug管理,新建,高,【M1809】【俄罗斯版本】【GMS认证】【CTS】【CtsTelephonyTestCases】android.telephony.cts.VisualVoicemailServiceTest#testFilter等,李振,沈晓凯,2018-06-01 15:32
+770310,Flyme Bug管理,新建,高,【M1809】【俄罗斯版本】【GMS认证】【CTS】【CtsTelephonyTestCases】android.telephony.cts.SmsManagerTest#testSendAndReceiveMessages等,李振,沈晓凯,2018-06-01 15:32
+770308,Flyme Bug管理,新建,高,【M1809】【俄罗斯版本】【GMS认证】【CTS】【CtsPermission2TestCases】android.permission2.cts.PrivappPermissionsTest#testPrivappPermissionsEnforcement	,李振,沈晓凯,2018-06-01 15:32
+770306,Flyme Bug管理,新建,高,【M1809】【俄罗斯版本】【GMS认证】【CTS】【CtsPermission2TestCases】android.permission2.cts.NoReceiveSmsPermissionTest#testAppSpecificSmsToken,李振,沈晓凯,2018-06-01 15:32
+770304,Flyme Bug管理,新建,高,【M1809】【俄罗斯版本】【GMS认证】【CTS】【CtsLogdTestCases】logd#timeout,李振,沈晓凯,2018-06-01 15:32
+770292,Flyme Bug管理,新建,高,【M1809】【俄罗斯版本】【GMS认证】【CTS Verifier】manualTests#com.android.cts.verifier.managedprovisioning.DeviceOwnerPositiveTestActivity,李振,沈晓凯,2018-06-01 15:32
+770289,Flyme Bug管理,新建,高,【M1809】【俄罗斯版本】【GMS认证】【CTS Verifier】manualTests#com.android.cts.verifier.deskclock.DeskClockTestsActivity,李振,沈晓凯,2018-06-01 15:31
+770286,Flyme Bug管理,新建,高,【M1809】【俄罗斯版本】【GMS认证】【CTS Verifier】manualTests#com.android.cts.verifier.audio.AudioLoopbackActivity,李振,沈晓凯,2018-06-01 15:31
+770282,Flyme Bug管理,新建,高,【M1809】【俄罗斯版本】【GMS认证】【CTS Verifier】manualTests#com.android.cts.verifier.audio.AudioFrequencyUnprocessedActivity,李振,沈晓凯,2018-06-01 15:31
+770280,课题,新建,高,【M1809】【CTS-Verifier】CTS-Verifier问题父任务,李振,刘振江,2018-06-01 13:46
+770230,Flyme Bug管理,已分配,高,【M1809】【俄罗斯版本】【GMS认证】【VTS】【VtsHalWifiV1_0Host】VtsHalWifiV1_0Host#WifiStaIfaceHidlTest.EnableNDOffload.EnableNDOffload,李振,杨龙,2018-06-01 11:46
+770221,Flyme Bug管理,已分配,高,【M1809】【俄罗斯版本】【GMS认证】【VTS】【VtsHalWifiV1_0Host】VtsHalWifiV1_0Host#WifiChipHidlTest.GetCapabilities.GetCapabilities,李振,杨龙,2018-06-01 11:46
+770220,Flyme Bug管理,已分配,高,【M1809】【俄罗斯版本】【GMS认证】【VTS】【VtsHalWifiV1_0Host】VtsHalWifiV1_0Host#WifiChipHidlTest.ForceDumpToDebugRingBuffer.ForceDumpToDebugRingBuffer等 ,李振,杨龙,2018-06-01 11:46
+770192,Flyme Bug管理,已分配,高,【M1809】【俄罗斯版本】【GMS认证】【CTS_GSI】com.android.server.cts.BatteryStatsValidationTest#testWifiUpload ,李振,杨龙,2018-06-01 11:46
+770186,Flyme Bug管理,已分配,高,【M1809】【俄罗斯版本】【GMS认证】【CTS_GSI】android.autofillservice.cts.SimpleSaveActivityTest#testTapLink_changeOrientationThenTapBack,李振,杨龙,2018-06-01 11:23
+770179,Flyme Bug管理,已分配,高,【M1809】【俄罗斯版本】【GMS认证】【CTS_GSI】android.appsecurity.cts.DirectBootHostTest#testDirectBootEmulated,李振,杨龙,2018-06-01 11:22
+770100,Flyme Bug管理,已分配,立刻,【M1809】【稳定性】【System monkey】20180531064700_intl_prd_lock版本系统monkey测试出现12台monkey停止运行,郭松婵,晁志凯,2018-06-02 11:16
+769114,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180528064700_intl_prd_lock 版本系统monkey测试出现system_app_anr,郭松婵,晁志凯,2018-05-31 10:36
+769113,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180528064700_intl_prd_lock 版本系统monkey测试出现【com.android.settings _crash】java.lang.RuntimeException: failure code: -38,郭松婵,晁志凯,2018-05-30 20:38
+769111,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180528064700_intl_prd_lock 版本系统monkey测试出现【com.android.mms _crash】java.lang.StringIndexOutOfBoundsException: length=17; index=24,郭松婵,晁志凯,2018-05-30 20:39
+769108,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180528064700_intl_prd_lock 版本系统monkey测试出现【org.codeaurora.gallery _crash】java.lang.NullPointerException: Attempt to invoke virtual method 'android.view.View android.view.View.findViewById(int)' on a null object reference,郭松婵,晁志凯,2018-05-30 20:40
+769103,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180528064700_intl_prd_lock 版本系统monkey测试出现【org.codeaurora.gallery _crash】java.lang.NullPointerException: name == null,郭松婵,晁志凯,2018-05-30 20:40
+769096,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180528064700_intl_prd_lock 版本系统monkey测试出现【com.android.settings_crash】java.lang.NullPointerException: Attempt to invoke virtual method 'android.support.v7.preference.Preference android.support.v7.preference.PreferenceGroup.find,郭松婵,晁志凯,2018-05-30 20:40
+768603,Flyme Bug管理,已解决,高,【M1809】【试用反馈】【相机】长按拍照键进行连拍，提示“媒体服务终止，关闭相机”,陈立婷,王小胜,2018-06-01 10:33
+768332,Flyme Bug管理,已分配,高,【M1809】【稳定性】【相机monkey】20180529064700_intl_prd_lock版本相机monkey测试，出现【com.android.systemui _crash】java.lang.ArrayIndexOutOfBoundsException: src.length=0 srcPos=0 dst.length=0 dstPos=1 length=1,徐福生,晁志凯,2018-05-30 20:30
+767675,Flyme Bug管理,已分配,高,【M1809】【试用反馈】【设置】设置菜单空白，一会提示无响应,黄彩林,周亚成,2018-05-29 15:22
+767537,Flyme Bug管理,已分配,普通,【M1809】【设置】设置语言为爱尔兰语，系统语言不变化,孙红生,沈晓凯,2018-05-29 14:31
+767431,Flyme Bug管理,已分配,立刻,【M1809】【稳定性】【System monkey】20180528064700_intl_prd_lock版本系统monkey测试出现20台monkey停止运行,郭松婵,晁志凯,2018-05-30 16:54
+767380,Flyme Bug管理,已解决,高,【M1809】【联系人】从手机到处联系人到SIM卡，高概率提示SIM卡已满，0条导出成功(5/10),彭荣林,王小胜,2018-06-01 10:38
+767328,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180526064703_intl_prd_lock 版本系统monkey测试出现system_app_anr,郭松婵,晁志凯,2018-05-29 09:38
+767324,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180526064703_intl_prd_lock 版本系统monkey测试出现【org.codeaurora.gallery _crash】java.lang.IllegalStateException: Can not perform this action after onSaveInstanceState,郭松婵,晁志凯,2018-05-29 09:38
+767316,Flyme Bug管理,已分配,高,【M1809】【试用反馈】【兼容性】安装网易新闻后打开缓慢,朱伟,沈晓凯,2018-05-30 11:24
+767314,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180526064703_intl_prd_lock 版本系统monkey测试出现【com.android.phone _crash】 android.view.WindowManager$BadTokenException: Unable to add window -- token android.os.BinderProxy@b73f983 is not valid; is your activity running?,郭松婵,晁志凯,2018-05-29 09:37
+767311,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180526064703_intl_prd_lock 版本系统monkey测试出现【com.android.calendar_crash】java.lang.IllegalStateException: Can not perform this action after onSaveInstanceState,郭松婵,晁志凯,2018-05-29 09:37
+767308,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180526064703_intl_prd_lock 版本系统monkey测试出现【com.android.music_crash】java.lang.IllegalStateException,郭松婵,晁志凯,2018-05-29 09:37
+766616,Flyme Bug管理,已解决,高,【M1809】【稳定性】【System monkey】20180526064703_intl_prd_lock版本系统monkey测试出现1台monkey停止运行（NullPointerException）,郭松婵,晁志凯,2018-06-02 11:22
+766504,Flyme Bug管理,已解决,高,【M1809】【设置】切换选择USB配置，提示音乐已停止运行,罗俊,王小胜,2018-06-01 10:30
+766495,Flyme Bug管理,无法重现,高,【M1809】【系统】俄罗斯prd版本update包升级失败,李振,周亚成,2018-06-01 16:33
+766419,Flyme Bug管理,已分配,紧急,【M1809】【稳定性】【System monkey】20180524064700_intl_prd_lock版本系统monkey测试出现3台黑屏,郭松婵,晁志凯,2018-06-02 11:38
+766416,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180524064700_intl_prd_lock 版本系统monkey测试出现system_app_anr,郭松婵,晁志凯,2018-05-28 10:58
+765916,Flyme Bug管理,已解决,立刻,【M1809】【稳定性】【System monkey】20180524064700_intl_prd_lock版本系统monkey测试出现8台monkey停止运行（压力测试引起的AMS中NullPointerException）,郭松婵,晁志凯,2018-06-02 11:23
+765028,Flyme Bug管理,无法重现,高,【M1809】【试用反馈】【系统稳定性】正常待机下，在飞机上开了飞行模式，放在口袋，下了飞机后就开不开了,朱伟,王桢,2018-06-01 17:31
+764551,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180521064700_intl_prd_lock版本系统monkey测试出现【org.codeaurora.gallery_crash】java.lang.RuntimeException: setDataSource failed: status = 0x80000000,郭松婵,屈晓勇,2018-05-23 20:06
+764547,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180521064700_intl_prd_lock版本系统monkey测试出现【com.android.settings_crash】java.lang.NullPointerException: Attempt to get length of null array,郭松婵,屈晓勇,2018-05-23 19:08
+764543,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180521064700_intl_prd_lock版本系统monkey测试出现【com.android.phone_crash】java.lang.IllegalArgumentException,郭松婵,屈晓勇,2018-05-23 19:08
+764529,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180521064700_intl_prd_lock 版本系统monkey测试出现system_app_anr,郭松婵,屈晓勇,2018-05-23 19:08
+763723,Flyme Bug管理,已分配,高,【M1809】【GMS认证】【CTS_GSI】【 CtsMonkeyTestCases】com.android.cts.monkey.MonkeyTest#testNotMonkey,杨红成,杨龙,2018-06-01 10:39
+763719,Flyme Bug管理,已分配,高,【M1809】【GMS认证】【CTS】【 CtsTelephonyTestCases】android.telephony.gsm.cts.SmsManagerTest#testSendAndReceiveMessages等,杨红成,杨龙,2018-05-22 19:25
+763716,Flyme Bug管理,已分配,高,【M1809】【GMS认证】【CTS】【 CtsTelephonyTestCases】android.telephony.cts.VisualVoicemailServiceTest#testFilter等,杨红成,杨龙,2018-05-22 19:26
+763715,Flyme Bug管理,已分配,高,【M1809】【GMS认证】【CTS】【 CtsPermission2TestCases】android.permission2.cts.NoReceiveSmsPermissionTest#testAppSpecificSmsToken,杨红成,杨龙,2018-05-22 19:25
+763713,Flyme Bug管理,已分配,高,【M1809】【GMS认证】【CTS】【 CtsIncidentHostTestCases】com.android.server.cts.NetstatsIncidentTest#testSanityCheck,杨红成,杨龙,2018-05-22 19:25
+763675,Flyme Bug管理,已分配,高,【M1809】【GMS认证】【CTS Verfier】测试BluetoothTestActivity未通过,杨红成,杨龙,2018-05-22 19:25
+763555,Flyme Bug管理,已分配,普通,"【M1809】【试用反馈】手机开机，电信卡信号为0dB,状态栏信号满格，热插拔后恢复",陈雪      ,张海军,2018-05-22 17:31
+763138,Flyme Bug管理,已分配,高,"【M1809】【稳定性】【相机monkey】20180521064700_intl_prd_lock相机monkey测试，出现【org.codeaurora.snapcam _crash】java.lang.RuntimeException: An error occur:Sending Touch (ACTION_DOWN): 0:(549.0,275.0)",徐福生,屈晓勇,2018-05-23 15:16
+763127,Flyme Bug管理,已分配,高,【M1809】【稳定性】【相机monkey】20180521064700_intl_prd_lock相机monkey测试，出现【org.codeaurora.snapcam _crash】java.lang.NullPointerException: Attempt to read from field 'int android.view.View.mPrivateFlags' on a null object reference,徐福生,屈晓勇,2018-05-23 15:17
+763034,Flyme Bug管理,已分配,普通,【M1809】【试用反馈】用户和账号里删除登录Google的账号，账户未被删除也无法点击进去,陈雪      ,王小胜,2018-05-22 10:21
+762767,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180519064700_intl_prd_lock  版本系统monkey测试出现system_app_anr,郭松婵,张继巍,2018-05-22 10:41
+762724,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180519064700_intl_prd_lock 版本系统monkey测试出现【com.android.phone_crash】java.lang.IllegalStateException: Default phones haven't been made yet!,郭松婵,屈晓勇,2018-05-23 20:48
+762669,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180519064700_intl_prd_lock 版本系统monkey测试出现【com.android.settings_crash】 java.lang.IllegalArgumentException: list[2] is a repetition,郭松婵,屈晓勇,2018-05-22 10:42
+761943,Flyme Bug管理,已分配,普通,【M1809】【试用反馈】【SD卡】sd卡不可用，提示需先格式化，但格式化又不成功，重启手机sd卡才恢复正常,魏立延,王小胜,2018-05-21 14:02
+761899,Flyme Bug管理,已分配,普通,【M1809】【试用反馈】【开机向导】开机向导界面出现TouchPal 2017 has stopped,李振,王小胜,2018-05-21 14:02
+761788,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180517064700_intl_prd_lock版本系统monkey测试出现system_app_anr,郭松婵,屈晓勇,2018-05-21 14:02
+761734,Flyme Bug管理,已分配,高,【M1809】【试用反馈】【视频】使用蓝牙耳机暂停播放视频后音乐后台播放，无法继续播放视频,薛鹏凯,王小胜,2018-05-31 15:10
+761659,Flyme Bug管理,已分配,高,【M1809】【Gmail】收到邮件，无法打开、下载邮件。,牛孝文,沈晓凯,2018-05-21 14:03
+761574,Flyme Bug管理,已分配,普通,【M1809】【试用反馈】【设置】搜索框横屏时，no results画面显示不全无法下拉,彭洁,王小胜,2018-05-18 19:04
+761130,Flyme Bug管理,已分配,普通,【M1809】【桌面】搜索应用界面语音搜索APP，闪现其他APP。,牛孝文,王小胜,2018-05-18 13:48
+760860,Flyme Bug管理,已分配,低,【M1809】【试用反馈】【时间与日期】网络和数据都打开，手机设置中的自动确定日期和时间都打开，手机的时间仍现实22点左右，不能恢复正确时间5.16号10：58左右,魏立延,同杰,2018-05-18 10:29
+760665,Flyme Bug管理,已分配,立刻,【M1809】【稳定性】【System monkey】20180512064701_intl_prd_lock版本系统monkey测试出现13台monkey停止运行（log不全，无法分析出原因）,郭松婵,晁志凯,2018-05-30 16:05
+760552,Flyme Bug管理,重新打开,高,【M1809】【音频框架】联通3G耳机模式最大音量下通话，声音偏小,金小燕  ,钱程,2018-05-28 10:04
+760542,Flyme Bug管理,已分配,普通,【M1809】【试用反馈】录像时界面上方的功能图标排布不协调，录音按钮偏上,wzhanghongwei,张海辉,2018-05-17 16:04
+760391,Flyme Bug管理,已分配,立刻,【M1809】【稳定性】【System monkey】20180514064700_intl_prd_lock 版本系统monkey测试出现11台monkey停止运行（OutOfMemoryError）,郭松婵,晁志凯,2018-05-23 18:58
+760079,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180514064700_intl_prd_lock 版本系统monkey测试出现system_app_anr,郭松婵,张继巍,2018-05-17 10:08
+760072,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180514064700_intl_prd_lock 版本系统monkey测试出现【com.android.phone_crash】java.lang.IllegalArgumentException: Unable to resume activity {com.android.phone/com.android.phone.EmergencyDialer}: java.lang.IllegalArgumentException,郭松婵,屈晓勇,2018-05-17 10:07
+760069,Flyme Bug管理,重新打开,高,【M1809】【稳定性】【System monkey】20180514064700_intl_prd_lock 版本系统monkey测试出现【com.android.settings_crash】 android.view.WindowManager$BadTokenException: Unable to add window -- token android.os.BinderProxy@9a3cf4a is not valid; is your activity running?,郭松婵,屈晓勇,2018-05-19 16:29
+760037,Flyme Bug管理,已分配,普通,【M1809】【India-Gurgaon】Low battery text is displaying in chinese language,Pooran Singh,张海辉,2018-05-18 09:32
+759940,Flyme Bug管理,已分配,普通,【M1809】【试用反馈】【联系人】联系人快捷方式界面开启多任务窗口，返回后桌面界面异常,彭洁,王小胜,2018-05-16 17:37
+759728,Flyme Bug管理,已分配,普通,【M1809】【试用反馈】【联系人】新建带网站信息的联系人，搜索栏输入网址无法搜索到联系人,彭洁,王小胜,2018-05-16 16:38
+759477,Flyme Bug管理,已分配,普通,【M1809】【试用反馈】手机的音量键加电源键截图不灵敏,王金鑫,王小胜,2018-05-16 11:17
+759383,Flyme Bug管理,已分配,普通,【M1809】【试用反馈】【兼容性】和微信好友视频，视频通话界面异常,陈雪      ,王小胜,2018-05-16 17:32
+759240,Flyme Bug管理,已分配,高,【M1809】【GMS认证】【CTS_GSI】【CtsDevicePolicyManagerTestCases】com.android.cts.devicepolicy.UserRestrictionsTest#testUserRestrictions_deviceOwnerOnly,杨红成,杨龙,2018-05-17 11:44
+759232,Flyme Bug管理,已分配,高,【M1809】【GMS认证】【CTS】【CtsDevicePolicyManagerTestCases】com.android.cts.devicepolicy.UserRestrictionsTest#testUserRestrictions_deviceOwnerOnly,杨红成,杨龙,2018-05-17 11:45
+759231,Flyme Bug管理,已分配,高,【M1809】【GMS认证】【CTS】【CtsDevicePolicyManagerTestCases】com.android.cts.devicepolicy.MixedProfileOwnerTest#testAlwaysOnVpnLockDown等,杨红成,杨龙,2018-05-17 13:35
+759148,Flyme Bug管理,重新打开,普通,【M1809】【USB】开发者选项中USB模式选择时下方文字与所选模式不符,余豪,张海辉,2018-05-27 14:30
+758702,Flyme Bug管理,已解决,高,【M1809】【WLAN】2.4g n协议 20Mhz/40Mhz，吞吐量（上传）达不到标准值,言云涛,同杰,2018-06-04 17:59
+758518,Flyme Bug管理,已分配,普通,【M1809】【试用反馈】调节字体大小，出现卡顿，预览字样重叠（附视频）,陈雪      ,王小胜,2018-05-15 11:15
+758405,Flyme Bug管理,已分配,普通,【M1809】【India-Gurgaon】APN settings getting deleted when press back key,Pooran Singh,张海军,2018-05-15 09:59
+758388,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180512064701_intl_prd_lock版本系统monkey测试出现system_app_anr,郭松婵,屈晓勇,2018-05-14 21:19
+758385,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180512064701_intl_prd_lock版本系统monkey测试出现【com.android.settings_crash】java.lang.IllegalArgumentException: reportSizeConfigurations: ActivityRecord not found for: Token{cfd3961 ActivityRecord{52454c8 u0 com.android.settings/.Sett,郭松婵,屈晓勇,2018-05-14 21:19
+758321,Flyme Bug管理,已分配,高,"【M1809】【稳定性】【System monkey】20180512064701_intl_prd_lock版本系统monkey测试出现【org.codeaurora.gallery_crash】java.lang.IllegalStateException: View android.widget.LinearLayout{15bd8e5 V.E...... ......I. 0,0-0,0} has already been added to the window manager.",郭松婵,屈晓勇,2018-05-24 17:07
+757789,Flyme Bug管理,已分配,普通,【M1809】【试用反馈】拍照预览界面画面被拉长，但是拍出的照片是正常的,王金鑫,王小胜,2018-05-15 12:00
+757685,Flyme Bug管理,无法重现,紧急,【M1809】【稳定性】【System monkey】20180524064700_intl_prd_lock版本系统monkey测试出现2台死机,郭松婵,晁志凯,2018-06-05 15:32
+757622,Flyme Bug管理,已分配,高,【M1809】【充电】低电量下非Meizu充电线充电黑屏，无法恢复,胡津军,刘洋,2018-05-21 10:35
+757372,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180509144642_intl_prd_lock版本系统monkey测试出现system_app_anr,郭松婵,张继巍,2018-05-14 10:43
+757355,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180509144642_intl_prd_lock版本系统monkey测试出现【com.andoid.calendar_crash】android.os.BadParcelableException: Parcelable protocol requires a Parcelable.Creator object called CREATOR on class com.android.calendar.recurrencepicker.Recur,郭松婵,屈晓勇,2018-05-22 13:59
+757352,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180509144642_intl_prd_lock版本系统monkey测试出现【com.android.contacts_crash】java.lang.RuntimeException: Request permission activity was called even though all permissions are satisfied.,郭松婵,屈晓勇,2018-05-22 11:46
+757349,Flyme Bug管理,重新打开,高,【M1809】【稳定性】【System monkey】20180509144642_intl_prd_lock版本系统monkey测试出现【com.android.calculator2_crash】java.lang.IllegalStateException: Can not perform this action after onSaveInstanceState,郭松婵,张继巍,2018-05-21 19:49
+757235,Flyme Bug管理,已分配,立刻,【M1809】【稳定性】【System monkey】20180505064700_intl_prd_lock版本系统monkey测试出现24台monkey停止运行(死锁引起watchdog超时）,郭松婵,晁志凯,2018-05-30 16:04
+757190,Flyme Bug管理,重新打开,高,【M1809】【续航测试】真电池续航测试，不插卡跑（固件版本20180504023016）-- 8H10min，插卡跑时 -- 7H10min（固件版本20180510064700），都小于期望的续航时间--11小时；,蔡姣姣,沈晓凯,2018-05-30 20:28
+756546,Flyme Bug管理,已分配,高,【M1809】【性能】【系统内存】【电话】启动“电话”应用后，back键回到桌面，电话进程在Persistent中,郭松婵,沈晓凯,2018-05-11 16:02
+756540,Flyme Bug管理,已分配,高,【M1809】【性能】【系统内存】【音乐】启动音乐进行系统负载测试，在各个界面下均存在Views、Activities不为0,郭松婵,沈晓凯,2018-05-11 16:02
+756537,Flyme Bug管理,已分配,高,【M1809】【性能】【系统内存】【音乐】使用任务管理器左滑“音乐”应用图标杀掉音乐应用后，音乐应用自启了,郭松婵,沈晓凯,2018-05-11 16:17
+756535,Flyme Bug管理,已分配,普通,【M1809】【试用反馈】进入短信 ，下拉通知栏中点击短信正在运行，选择显示所有应用 里有应用名显示异常（附视频）,陈雪      ,王小胜,2018-05-10 19:26
+756349,Flyme Bug管理,重新打开,普通,【M1809】【试用反馈】【辅助功能】设置辅助功能magnification有图标显示，其他菜单没有显示图标,魏立延,侯跃峰,2018-05-25 12:47
+756294,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180508064700_intl_prd_lock版本系统monkey测试出现system_app_anr,郭松婵,屈晓勇,2018-05-10 18:43
+756291,Flyme Bug管理,已分配,普通,【M1809】【试用反馈】微博拍摄视频，点击来回，界面一直显示处理中,陈雪      ,王小胜,2018-05-10 18:07
+755640,Flyme Bug管理,重新打开,高,【M1809】【相机】锁屏下上滑进入相机，power锁屏再解锁上滑，相机卡死,罗俊,沈晓凯,2018-05-11 16:21
+755059,Flyme Bug管理,重新打开,普通,【M1809】【试用反馈】锁屏界面滑动右下角进入相机，一直显示黑屏,陈雪      ,张海辉,2018-05-11 10:17
+754873,Flyme Bug管理,新建,普通,【M1809】【试用反馈】电量为0%时，关机充电界面0中间有斜杠,陈雪      ,沈晓凯,2018-05-14 09:37
+754846,Flyme Bug管理,已分配,高,【M1809】【GPS】高德地图，不插卡仅GPS，行走过程中出现位置漂移，之后指针朝向不再改变,言云涛,沈晓凯,2018-05-17 16:34
+754763,Flyme Bug管理,已分配,高,【M1809】【音频框架】VOLTE扬声器通话，配合端说话有回音,宁美玉,钱程,2018-05-11 16:38
+754757,Flyme Bug管理,已分配,高,【M1809】【音频框架】VOLTE听筒通话，干扰音明显,宁美玉,钱程,2018-05-11 16:39
+754754,Flyme Bug管理,已分配,普通,【M1809】【音频框架】有线耳机通话有轻微网络干扰音,宁美玉,钱程,2018-05-21 14:49
+754526,Flyme Bug管理,已分配,高,【M1809】【GMS认证】【CTS】【CtsHostsideNetworkTests】com.android.cts.net.HostsideRestrictBackgroundNetworkTests#testAppIdleMetered_disabled等,余琳,杨龙,2018-05-18 11:20
+754469,Flyme Bug管理,已分配,普通,【M1809】【电量管理】进入电池页面，插拔充电器，正在充电信息延迟五六秒才会显示正确（附视频）,李振,张海辉,2018-05-11 10:17
+754427,Flyme Bug管理,已分配,普通,【M1809】【电量管理】进入设置-电池，上次充满电信息显示异常,李振,张海辉,2018-05-11 10:17
+754014,Flyme Bug管理,重新打开,高,【M1809】【功耗】2G电信呼出（听筒）电流119.05，超出标准9.2%,汪亮亮,沈晓凯,2018-05-11 15:10
+754008,Flyme Bug管理,重新打开,普通,【M1809】【试用反馈】微信登录界面，输入密码点击左下角返回，界面不流畅（附视频）,陈雪      ,王小胜,2018-05-17 15:49
+753936,Flyme Bug管理,新建,普通,"【M1809】【文件格式】在文件管理器内打开.doc,.xlsx,.pptx,.pdf,.tx格式文件，出现.doc,.xlsx,.pptx格式文件无法打开。",wzhangchao1,"",2018-05-07 20:25
+753932,Flyme Bug管理,已分配,普通,【M1809】【邮件】收件箱右上角搜索框内输入文字，搜索不到邮件。,wzhangchao1,王小胜,2018-05-08 10:22
+753926,Flyme Bug管理,已分配,普通,【M1809】【邮箱】给测试机邮箱发送电话号码和网址，收到后不能直接点击拨号和上网。,wzhangchao1,王小胜,2018-05-07 20:12
+753919,Flyme Bug管理,已分配,普通,【M1809】【邮箱】收件人设为登录账号，发送邮件给自己，收到两封邮件。,wzhangchao1,王小胜,2018-05-07 20:03
+753916,Flyme Bug管理,已分配,普通,【M1809】【信息】“接收者”文本框号码格式显示不一,wzhangchao1,侯跃峰,2018-05-07 19:59
+753904,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180505064700_intl_prd_lock版本系统monkey测试出现system_app_anr,郭松婵,黄铁山,2018-05-11 10:12
+753873,Flyme Bug管理,重新打开,高,"【M1809】【稳定性】【System monkey】 20180505064700_intl_prd_lock版本系统monkey测试出现【org.codeaurora.gallery _crash】java.lang.IllegalArgumentException: The stateview to be finished is not at the top of the stack: com.android.gallery3d.app.SinglePhotoPage@57e8de8, com.an",郭松婵,屈晓勇,2018-05-22 11:31
+753857,Flyme Bug管理,已分配,高,【M1809】【USB-HOST】手机端连接OTG，在连接移动硬盘，手机端不识别移动硬盘,陈雪      ,刘洋,2018-05-21 09:39
+753827,Flyme Bug管理,已分配,普通,【M1809】【BSP-Recovery】IMEI加密整包测试，IMEI不在imei.dat列表的手机可升级成功,宁美玉,刘添威,2018-05-08 10:20
+753771,Flyme Bug管理,已分配,普通,【M1809】【信息】新建信息添加主题后点击删除，光标从“键入信息移动至”接收者”文本栏,wzhangchao1,侯跃峰,2018-05-07 18:12
+753704,Flyme Bug管理,已分配,高,【M1809】【功耗】BSP功耗测试：3G联通呼出（蓝牙耳机）电流为191.9mA，超出标准34.2%，超出对比机（魅蓝6）25.3%（加密版本）,刘亚中,沈晓凯,2018-05-17 13:35
+753697,Flyme Bug管理,已分配,高,【M1809】【功耗】BSP功耗测试：3G联通呼出（听筒）电流为192.4mA，超出标准38.4%，超出对比机（魅蓝6）23.3%（加密版本）,刘亚中,沈晓凯,2018-05-17 13:37
+753646,Flyme Bug管理,已解决,普通,【M1809】【India-Gurgaon】Message center number is not editable,Pooran Singh,张海军,2018-05-21 15:28
+753576,Flyme Bug管理,已分配,高,【M1809】【BSP-Boot】不同测试机chip id相同,李婉婷,刘添威,2018-05-08 10:18
+753383,Flyme Bug管理,已分配,高,【M1809】【视频】FLV和WMV格式视频文件播放时有声音但不正常显示画面,v黄禄权,沈晓凯,2018-06-27 10:12
+752909,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180501064700_intl_prd_lock 版本系统monkey测试出现【org.codeaurora.gallery_crash】java.lang.IllegalArgumentException: reportSizeConfigurations: ActivityRecord not found for: Token{ac60cf5 ActivityRecord{d8caa2c u0 org.codeaurora.gallery/,郭松婵,张继巍,2018-05-23 09:38
+752907,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180501064700_intl_prd_lock 版本系统monkey测试出现【com.android.phone_crash】java.lang.IllegalArgumentException: reportSizeConfigurations: ActivityRecord not found for: Token{12597d4 ActivityRecord{2e02927 u0 com.android.dialer/.app.Dial,郭松婵,张继巍,2018-05-23 09:37
+752904,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180501064700_intl_prd_lock版本系统monkey测试出现【com.android.soundrecorder _crash】java.util.concurrent.TimeoutException: android.content.ContentResolver$CursorWrapperInner.finalize() timed out after 10 seconds,郭松婵,黄铁山,2018-05-11 10:11
+752902,Flyme Bug管理,已分配,高,"【M1809】【稳定性】【System monkey】20180501064700_intl_prd_lock版本系统monkey测试出现【 com.emoji.keyboard.touchpal_crash】java.lang.IllegalStateException: View android.widget.LinearLayout{61014f2 V.E...... ......ID 0,0-544,141} has already been added to the window manager",郭松婵,黄铁山,2018-05-22 10:29
+752898,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180501064700_intl_prd_lock版本系统monkey测试出现system_app_anr,郭松婵,黄铁山,2018-05-11 10:11
+752891,Flyme Bug管理,已分配,高,【M1809】【音乐】登录网页QQ邮箱下载音乐附件后点击播放提示无法打开文件,v黄禄权,沈晓凯,2018-05-16 14:05
+752849,Flyme Bug管理,新建,普通,【M1809】【呼吸灯】呼吸灯时间间隔为4.30s超过定义标准值,肖子鸣,刘振江,2018-05-17 18:22
+752845,Flyme Bug管理,已分配,高,【M1809】【稳定性】【相机monkey】20180504064700_intl_prd_lock相机monkey测试，出现【org.codeaurora.snapcam _crash】java.lang.RuntimeException: start face detection failed,徐福生,黄铁山,2018-05-11 10:12
+752703,Flyme Bug管理,已分配,高,【M1809】【GMS认证】【CTS Verifier】GnssTtffTestsActivity,杨红成,杨龙,2018-05-04 18:27
+752668,Flyme Bug管理,已分配,普通,"【M1809】【India-Gurgaon】Phone shows carrier name as ""Jio 4G 4G""",Pooran Singh,张海军,2018-05-07 13:32
+752612,Flyme Bug管理,已分配,高,【M1809】【GMS认证】【CTS_GSI】【 CtsAppSecurityHostTestCases】android.appsecurity.cts.DirectBootHostTest#testDirectBootNone等,杨红成,杨龙,2018-05-04 16:53
+752584,Flyme Bug管理,重新打开,高,【M1809】【俄罗斯版本】【海外版】【GMS认证】【GTS】【GtsMemoryHostTestCases】com.google.android.memory.gts.MemoryHostTest#testSystemMemoryAvailabilityPostBoot,杨红成,杨龙,2018-06-01 10:29
+752509,Flyme Bug管理,重新打开,高,【M1809】【GMS认证】【CTS】【CtsAppSecurityHostTestCases】android.appsecurity.cts.AdoptableHostTest#testPackageInstaller,杨红成,杨龙,2018-05-11 21:16
+752493,Flyme Bug管理,无法解决,高,【M1809】【流畅度】后台多个应用，点击多任务调出过程轻微卡顿,汪亮亮,沈晓凯,2018-05-17 15:06
+752320,Flyme Bug管理,已分配,普通,"【M1809】【India-Gurgaon】Phone shows ""Run out of memory ,canceling longshot"" pop up on taking continuous shot",Pooran Singh,张海辉,2018-05-11 10:17
+752317,Flyme Bug管理,已分配,普通,【M1809】【India-Gurgaon】 Camera preview shows flickering for 8-10 sec.,Pooran Singh,张海辉,2018-05-11 10:17
+751960,Flyme Bug管理,已分配,普通,【M1809】【India-Gurgoan】Camera shutter sound is coming even after option is disabled.,SharmaNeeraj,张海辉,2018-05-03 17:49
+751813,Flyme Bug管理,已分配,普通,【M1809】【网络管理】插入双电信卡，卡1会先显示R，再显示4G,廖雪,张海军,2018-05-07 13:32
+751659,Flyme Bug管理,已分配,普通,【M1809】【试用反馈】压缩103MB的日志，通知栏会一直卡在还剩余25秒,陈雪      ,张海辉,2018-05-04 10:10
+751652,Flyme Bug管理,已分配,普通,【M1809】【India-Gurgaon】Phones shows regulatory lables screen instead of SAR value on dialling *#07#,Pooran Singh,刘添威,2018-05-04 17:05
+751581,Flyme Bug管理,已分配,普通,【M1809】【试用反馈】相机无切换模式及缩略图,陈雪      ,张海辉,2018-05-11 10:17
+751319,Flyme Bug管理,重新打开,高,【M1809】【India-Gurgoan】HD icon not recover after tap on Home IMSI under sim toolkit.,SharmaNeeraj,张海军,2018-05-25 20:53
+750628,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180428064700_intl_prd_lock 版本系统monkey测试出现【org.codeaurora.snapcam_crash】java.lang.RuntimeException: takePicture failed,高斌斌,张继巍,2018-05-29 10:21
+750627,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180428064700_intl_prd_lock版本系统monkey测试出现system_app_anr,郭松婵,张继巍,2018-05-08 11:01
+750625,Flyme Bug管理,重新打开,高,【M1809】【稳定性】【System monkey】20180428064700_intl_prd_lock 版本系统monkey测试出现【com.android.bluetooth_crash】Native crash: Aborted,高斌斌,黄铁山,2018-05-19 15:42
+750356,Flyme Bug管理,已分配,普通,【M1809】【相机】全景模式界面，图片渲染中锁屏再亮屏，出现全景界面重叠显示,彭洁,周亚成,2018-04-28 17:10
+750188,Flyme Bug管理,已分配,高,【M1809】【第三方应用兼容性】Google商店下载部落冲突，游戏过程中停止运行,李振,刘振江,2018-05-17 18:19
+749689,Flyme Bug管理,已分配,普通,【M1809】【试用反馈】进入图片便捷界面布局异常，,曾祥辉,同杰,2018-04-28 11:35
+749063,Flyme Bug管理,重新打开,高,【M1809】【稳定性】【System monkey】20180424053002_intl_prd版本系统monkey测试出现system_app_anr,郭松婵,屈晓勇,2018-05-11 11:23
+749057,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180424053002_intl_prd版本系统monkey测试出现【 com.android.soundrecorder_crash】Native crash: Aborted,郭松婵,屈晓勇,2018-05-23 10:40
+749022,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180424053002_intl_prd版本系统monkey测试出现【 com.android.mms_crash】android.app.RemoteServiceException: Context.startForegroundService() did not then call Service.startForeground(),郭松婵,张继巍,2018-05-19 16:46
+748844,Flyme Bug管理,已分配,普通,【M1809】【信息】信息中正常拍摄视频保存画面与按键交互后保存画面显示不一致。,牛孝文,张海军,2018-05-07 13:32
+748829,Flyme Bug管理,已分配,普通,【M1809】【联系人】信息界面，点击已发送信息自己的联系人头像，显示联系人不存在,罗俊,侯跃峰,2018-05-04 21:39
+748543,Flyme Bug管理,已分配,普通,【M1809】【衰退】【相机】进入相机，底栏过渡动画缓慢、异常，会闪现背景白条纹（二供合力泰）,张春娟,张海军,2018-05-07 13:32
+748532,Flyme Bug管理,已分配,普通,【M1809】【试用反馈】【图库】拍一段视频进行修剪，拖动下方修剪的点，进度条的颜色显示不全,陈雪      ,沈晓凯,2018-04-26 17:15
+748352,Flyme Bug管理,已分配,普通,【M1809】【微信】图库中分享视频给微信好友，不会跳转到微信页面,牛孝文,王小胜,2018-04-26 13:54
+747462,Flyme Bug管理,重新打开,高,【M1809】【稳定性】【相机monkey】20180515064700_intl_prd_lock版本相机monkey测试，出现【org.codeaurora.snapcam _crash】java.lang.RuntimeException: unlock failed,徐福生,屈晓勇,2018-05-30 10:22
+747419,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180421191224_intl_I 版本系统monkey测试出现system_app_anr,郭松婵,张继巍,2018-05-09 12:34
+747404,课题,新建,高,【M1809】【CTS_GSI】CTS_GSI问题父任务,余琳,刘振江,2018-06-01 16:19
+747206,Flyme Bug管理,已解决,高,[M1809][FT_缅甸仰光][兼容性测试]终端飞行模下不能拨打紧急号码（always）,傅中,王朝彬 ,2018-06-01 15:34
+747205,硬件Bug管理,已分配,高,[M1809][FT_缅甸仰光][兼容性测试]插入SIM卡开机就弹出“The usb port of phone is getting warm”（always）（单机）,傅中,安祥,2018-05-04 15:44
+745831,Flyme Bug管理,已分配,普通,【M1809】【试用反馈】进入相机界面下方显示一条白线,陈雪      ,沈晓凯,2018-04-27 10:39
+744657,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180416043102_intl_I 版本系统monkey测试出现【com.android.calendar_crash】java.lang.SecurityException: Permission Denial: opening provider com.android.providers.calendar.CalendarProvider2 from ProcessRecord{704c5b7 2085:com.an,卢振明,屈晓勇,2018-05-17 14:47
+744573,Flyme Bug管理,重新打开,高,【M1809】【网络管理】电信卡从3G切换回4G时间过长（一分钟到两分钟之间波动）,朱伟,沈晓凯,2018-05-12 17:30
+744533,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180416043102_intl_I 版本系统monkey测试出现【com.android.contacts_crash】：java.lang.IllegalArgumentException: reportSizeConfigurations: ActivityRecord not found for: Token{52816cf null},卢振明,屈晓勇,2018-04-26 14:16
+744289,Flyme Bug管理,重新打开,高,【M1809】【稳定性】【System monkey】20180416043102_intl_I 版本系统monkey测试出现【org.codeaurora.snapcam_crash】：android.app.RemoteServiceException: UID 10032 does not have permission to content://com.android.contacts.files/my_cache/ContactPhoto-IMG_20180102_002053.jpg [use,卢振明,屈晓勇,2018-05-15 10:35
+744277,Flyme Bug管理,已分配,高,【M1809】【稳定性】【MTBF】20180417043104_intl_I版本MTBF测试过程中，相机界面出现【TouchPal 2017 has stopped】,高耸,沈晓凯,2018-04-26 11:14
+743841,Flyme Bug管理,已分配,普通,[M1809L] [ Mexico City/Mexico] [Issue Title 29: Preferred data changes to SIM2 though SIM1 is present after sim is inserted in slot2  after device was initially in SS mode],SinghBrajpal,张海军,2018-05-07 13:32
+743840,Flyme Bug管理,已解决,高,[M1809L] [ Mexico City/Mexico] [Issue Title 28: Emergency call is not initiated if both sims are disabled],SinghBrajpal,张海军,2018-04-25 17:05
+743498,Flyme Bug管理,已分配,高,【M1809】【信息】点击发送人图标界面闪屏,郭松婵,沈晓凯,2018-05-04 11:02
+743050,Flyme Bug管理,已解决,普通,[M1809L] [ Mexico City/Mexico] [Issue Title 27: DUT allows to activate and deactivate SIM2 during an ongoing call on SIM1],SinghBrajpal,王朝彬 ,2018-04-25 09:15
+743045,Flyme Bug管理,已分配,普通,[M1809L] [ Mexico City/Mexico] [Issue Title 26: DUT crashed while accessing YouTube Go],SinghBrajpal,王小胜,2018-04-26 13:04
+743042,Flyme Bug管理,已分配,普通,[M1809L] [ Mexico City/Mexico] [Issue Title 25: DUT crashed while kept in idle state after running navigation],SinghBrajpal,王小胜,2018-04-26 13:05
+742875,Flyme Bug管理,已分配,高,【M1809】【图库】左右滑动查看大图片，图库闪退回桌面,尹美林,沈晓凯,2018-05-09 16:11
+741842,Flyme Bug管理,已解决,高,【M1809】【Mexico City/Mexico】[Issue Title 23: Movistar don’t camp to 4G if we remove sim from Slot2 and put it in Slot1],SinghBrajpal,晁志凯,2018-04-27 20:58
+741347,Flyme Bug管理,已分配,高,【M1809】【试用反馈】播放1080P的视频无声音输出,邢娜娜,沈晓凯,2018-06-27 10:13
+740903,Flyme Bug管理,已分配,普通,【M1809】【Mexico City/Mexico】[Issue Title 18: Option not available to share location in default messaging application],SinghBrajpal,沈晓凯,2018-04-25 09:15
+740897,Flyme Bug管理,重新打开,普通,【M1809】【Mexico City/Mexico】[Issue Title 16: DUT shows “Turning  Bluetooth on” always after initial enable in Bluetooth tethering option  though we disable also ],SinghBrajpal,沈晓凯,2018-04-25 09:15
+740870,Flyme Bug管理,已解决,普通,[M1809L] [ Mexico City/Mexico] [Issue Title 14: DUT allows to access network settings and perform PLMN search even if SIMs are disabled],SinghBrajpal,张海军,2018-04-25 09:15
+740868,Flyme Bug管理,已解决,普通,[M1809L] [ Mexico City/Mexico] [Issue Title 12_DS Functional_TC18: PDP is not activated for Telcel after hot swap in DUT],SinghBrajpal,王朝彬 ,2018-04-25 09:15
+740867,Flyme Bug管理,已分配,高,[M1809L] [ Mexico City/Mexico] [Issue Title 11_lte Functional_TC12: DUT took more time than REF to reselect to 4G during idle mobility for TELCEL Operator],SinghBrajpal,沈晓凯,2018-05-18 09:35
+740123,Flyme Bug管理,已分配,高,[M1809L] [ Mexico City/Mexico] [Issue Title 10: PDP not getting activated for SIM2(Telcel) after data switch from sim1],SinghBrajpal,沈晓凯,2018-04-27 21:05
+740121,Flyme Bug管理,已解决,普通,[M1809L] [ Mexico City/Mexico] [Issue Title 08: Device data remains active during PLMN search ],SinghBrajpal,沈晓凯,2018-04-25 09:15
+740096,Flyme Bug管理,已分配,高,【M1809】【使用反馈】蓝牙发送文件提示发送失败,v黄禄权,沈晓凯,2018-04-26 15:03
+740041,Flyme Bug管理,重新打开,高,【M1809】【相机】谷歌浏览器后台运行时，进入相机卡顿严重，且出现“系统界面没有响应”,李振,张继巍,2018-05-08 10:10
+739971,Flyme Bug管理,已分配,普通,【M1809】【使用反馈】【联系人】通过vcf文件导入通讯录，导入完成后手机通讯录仍然为空,魏立延,张胜玫,2018-04-17 10:38
+739665,课题,新建,高,【M1809】【GTS】GTS问题父任务,董秋亚,刘振江,2018-06-01 16:15
+739394,Flyme Bug管理,已解决,高,[M1809L] [ Mexico City/Mexico] [Issue Title 04: SPN name is not displayed in Network Setting for AT&T in DUT.  ],SinghBrajpal,张海军,2018-05-21 16:16
+738986,课题,新建,高,【M1809】【VTS】VTS问题父任务,武丹丹,刘振江,2018-06-01 11:33
+738751,Flyme Bug管理,已分配,高,【M1809】【稳定性】【System monkey】20180416043102_intl_I版本系统monkey测试出现system_app_anr,卢振明,张继巍,2018-05-04 15:54
+738652,Flyme Bug管理,重新打开,普通,[M1809L][ Mexico City/Mexico] [Issue Title 02: DUT SPN name from drop down menu fluctuates between 4G and 3G when we enable and disable WIFI for AT&T operator ],SinghBrajpal,沈晓凯,2018-04-25 09:15
+738176,Flyme Bug管理,已解决,高,[Flyme6.0][M1809][海外场测][意大利-那不勒斯][1752][VF]测试机设置呼叫等待后，通话过程中无法接入第三方通话。必现,薛豪杰,张海辉,2018-05-03 18:15
+737406,Flyme Bug管理,无法重现,高,[Flyme6.0][M1809][海外场测][意大利-那不勒斯][1108][3ITA]从3G到4G区域切换，测试机一分钟后仍在3G。测试十次出现一次,薛豪杰,何兵兵,2018-05-04 11:42
+736861,Flyme Bug管理,已解决,高,[Flyme6.0][M1809][海外场测][意大利-那不勒斯][0948][3]4G吞吐量Upload平均值比对比机慢15%以上。10/10,薛豪杰,何兵兵,2018-05-03 15:07
+736856,Flyme Bug管理,已分配,高,[Flyme6.0][M1809][海外场测][意大利-那不勒斯][0918][WIND]测试机3G吞吐量Upload平均值比对比机慢15%以上。10/10,薛豪杰,沈晓凯,2018-05-11 09:07
+736460,Flyme Bug管理,已分配,高,【M1809】【开机向导】【衰退】开机向导界面出现谷歌服务商店停止运行,于长煜,刘振江,2018-05-17 18:39
+736400,Flyme Bug管理,已分配,高,【M1809】【试用反馈】钉钉升级提示钉钉已停止运行,陈雪      ,刘振江,2018-05-17 18:16
+736364,Flyme Bug管理,已分配,普通,【M1809】【试用反馈】设置密码和未设置密码锁屏进入相机，动画不同（附视频）,陈雪      ,张海辉,2018-05-11 10:17
+736283,硬件Bug管理,新建,高,【M1809】【三档温升】室温25.5℃，录像（开闪光灯）测试机背面最高温度52.301℃，温升26.7℃（标准：非金属△T≤19℃），对比机背面最高温度68.038℃，温升42.46℃,刘云斌,金玥歆,2018-04-10 10:18
+736224,Flyme Bug管理,已解决,高,[海外][Makassar][M1809_Intl][Modem]XL+Smartfren，切换主副卡后不能注册网络，时间2058,余勇,杜帅辉,2018-05-07 15:53
+736186,Flyme Bug管理,已分配,高,【M1809】【功耗】BSP功耗测试：3G联通下载文件（3M）电流为435.7mA，超出标准104.6%，超出对比机（魅蓝6）42.2%,刘亚中,沈晓凯,2018-05-11 17:51
+736181,Flyme Bug管理,已分配,高,【M1809】【功耗】BSP功耗测试：2G移动呼出（听筒）电流为272.6mA，超出标准245.1%，超出对比机（魅蓝6）2.7%,刘亚中,沈晓凯,2018-05-04 16:06
+736160,硬件Bug管理,已解决,高,[Flyme6.0][M1809][海外场测][意大利-那不勒斯][2019][Wind]网络速率测试机比对比机慢15%以上。,薛豪杰,张震,2018-04-26 10:25
+735680,Flyme Bug管理,已分配,高,【M1809】【待机】WIFI网络下，安装第三方应用后的系统待机10小时，耗电超过8%,许凯,沈晓凯,2018-05-04 16:22
+735668,Flyme Bug管理,已分配,高,【M1809】【待机】4G网络下，安装第三方应用后系统待机10小时耗电超过10%,许凯,沈晓凯,2018-05-04 16:22
+735560,Flyme Bug管理,已分配,高,【M1809】【性能】【时钟】冷启动时钟响应时间比标准V1.1慢366ma，热启动比标准V1.1慢203ms，比对比机慢147ms,汪星辰,沈晓凯,2018-05-09 17:23
+735544,Flyme Bug管理,已分配,高,【M1809】【性能】【图库】删除一张图片响应时间比标准V1.1慢380ms,汪星辰,沈晓凯,2018-05-09 17:23
+735536,Flyme Bug管理,已分配,高,【M1809】【性能】【图库】进入图库子文件夹响应时间比标准V1.1慢384ms；打开图片比标准V1.1慢559ms,汪星辰,沈晓凯,2018-05-09 17:22
+735472,Flyme Bug管理,已分配,高,"【M1809】【性能】【相机】从照相模式切换到图片浏览模式响应时间比对比机nokia2慢150ms；照相模式切换到录像模式比nokia2慢275,ms",汪星辰,沈晓凯,2018-05-09 17:24
+735391,Flyme Bug管理,已分配,高,【M1809】【性能】【信息】冷启动信息响应时间比标准V1.1慢205ms，比对比机nokia2慢111ms，热启动比对比机慢70ms,汪星辰,沈晓凯,2018-05-09 17:25
+735367,Flyme Bug管理,已分配,高,【M1809】【性能】【通讯录】热启动通讯录比对比机nokia慢283ms,汪星辰,沈晓凯,2018-05-09 17:26
+735336,Flyme Bug管理,已分配,高,【M1809】【性能】【电话】拨出电话的响应时间比标准V1.1慢1116ms，比对比机nokia2慢796ms,汪星辰,沈晓凯,2018-05-09 17:27
+735262,硬件Bug管理,已解决,高,[海外][Makassar][M1809_Intl][Modem] Tir4G+Ooredoo3G，Tir4G吞吐量测试，下载速率比对比机慢42%,余勇,陈许,2018-05-01 17:22
+735260,Flyme Bug管理,已分配,高,【M1809】【Yangoon/Myanmar】[Issue Title 35: DUT takes around 60 seconds to activate data on 4G after call is disconnected during CSFB short calls for Ooredoo. ],SinghBrajpal,沈晓凯,2018-05-21 16:25
+735254,Flyme Bug管理,已解决,高,【M1809】【Yangoon/Myanmar】[Issue Title 32: DUT showing data PDP during call in 2G mode for Telenor Operator [Hw. Specific.]. ],SinghBrajpal,张海军,2018-04-28 15:41
+735038,Flyme Bug管理,无法解决,高,【M1809】【试用反馈】【BSP-POWER】Gboard Go停止运行,陈立婷,沈晓凯,2018-05-04 15:09
+734990,Flyme Bug管理,无法解决,紧急,【M1809】【试用反馈】【BSP-Power】测试机按power键开机，提示加密失败，无法开机,陈立婷,沈晓凯,2018-05-04 15:02
+734931,Flyme Bug管理,重新打开,高,【M1809】【性能】【关机】关机响应时间比标准V1.1慢4961ms，比对比机nokia2慢6818ms,汪星辰,沈晓凯,2018-05-10 15:05
+734716,Flyme Bug管理,已分配,普通,【M1809】【试用反馈】【无他相机1.9.1】无他相机首页面的版权和导航栏重叠,陈雪      ,刘振江,2018-05-17 18:13
+734426,Flyme Bug管理,已解决,普通,【M1809】【Yangoon/Myanmar】[Issue Title 23: DUT showing wrong Service provider name in SIM Status for MPT operator.],SinghBrajpal,张海军,2018-04-25 14:11
+734408,Flyme Bug管理,已分配,高,【M1809】【稳定性】20180328112341_intl_I版本monkey测试，出现com.android.vending_crash,卢振明,刘振江,2018-05-17 16:16
+734403,Flyme Bug管理,已分配,高,【M1809】【稳定性】20180328112341_intl_I版本monkey测试，出现 com.android.phone_crash,卢振明,张继巍,2018-05-24 15:08
+734380,Flyme Bug管理,已分配,高,【M1809】【稳定性】20180328112341_intl_I版本monkey测试，出现 com.android.mms_crash,卢振明,沈晓凯,2018-04-18 11:30
+734343,Flyme Bug管理,已分配,高,【M1809】【稳定性】20180328112341_intl_I版本monkey测试，出现 com.emoji.keyboard.touchpal_crash ,卢振明,刘振江,2018-05-17 16:17
+734137,Flyme Bug管理,重新打开,高,【M1809】【功耗】蓝牙耳机播放音乐的功耗为55.1mA,刘云斌,沈晓凯,2018-05-10 15:50
+733561,Flyme Bug管理,无法重现,高,【M1809】【Yangoon/Myanmar】[Issue Title 19: DUT fails to originate call while performing MO 2G short calls for Telenor operator. ],SinghBrajpal,沈晓凯,2018-05-08 17:19
+733331,Flyme Bug管理,已解决,高,"【M1809】【海外场测】【基辅】【电话逻辑】无卡及输pin码界面拨打紧急电话失败，时间1541,1552",陈李天,张海军,2018-05-08 14:34
+732517,Flyme Bug管理,已解决,高,[海外][Makassar][M1809_Intl][modem]无卡拨打紧急号码110、113、118、119，提示无SIM卡、不显示紧急号码，必现,黄国君,张海军,2018-05-08 14:35
+732471,Flyme Bug管理,已解决,普通,[海外][Makassar][M1809_Intl][电话]XL拨打110，接通后挂断，无通话记录，时间1149,余勇,恽波,2018-05-03 09:25
+731692,Flyme Bug管理,已解决,高,【M1809】【海外场测】【基辅】【网络管理】插Intertelecom卡时运营商名称显示为“25504”，时间2304,陈李天,张胜玫,2018-04-28 14:54
+731673,Flyme Bug管理,已分配,高,【M1809】【Yangoon/Myanmar】[Issue Title 02: DUT shows an error while performing manual PLMN scan for Telenor.  ],SinghBrajpal,沈晓凯,2018-05-04 16:05
+731482,Flyme Bug管理,已分配,高,【M1809】【蓝牙】使用车载播放微信语音，语音前1-2秒无声,赵莹,张胜玫,2018-05-16 16:45
+731441,硬件Bug管理,已分配,高,【M1809】【WLAN】对比机测试机处同一WIFI信号较弱位置时对比机未断开网络时测试机已经断开,余豪,刘振江,2018-04-25 21:11
+730691,Flyme Bug管理,已分配,高,【M1809】【文件管理器】SD卡内复制大文件到内部存储，文件管理器剩余存储空间显示不会同步改变,邱观林,刘添威,2018-05-18 17:41
+729013,Flyme Bug管理,无法解决,高,【M1809】【性能】【系统流畅度】按recent键调出任务管理器界面出现轻微卡顿,陈培苗,刘添威,2018-05-11 16:27
+728835,Flyme Bug管理,重新打开,高,【M1809】【GMS认证】【CTS】【CtsDevicePolicyManagerTestCases】com.android.cts.devicepolicy.MixedDeviceOwnerTest#testAlwaysOnVpnLockDown等,武丹丹,杨龙,2018-05-10 18:38
+728482,课题,新建,普通,【M1809】【性能】系统流畅度,陈培苗,陈培苗,2018-05-15 14:24
+727929,Flyme Bug管理,已分配,高,"【M1809】【性能】【系统内存】【设置】对设置执行monkey操作，返回桌面Ontrim 80操作后Native>20M,Dalvik>12M",郭松婵,沈晓凯,2018-05-04 15:12
+727922,Flyme Bug管理,已分配,高,"【M1809】【性能】【系统内存】【日历】对日历执行monkey操作，返回桌面trim 80操作后Views、Activities以及ViewRootImpl不为0,Dalvik>12M",郭松婵,沈晓凯,2018-05-04 15:12
+727860,Flyme Bug管理,已分配,高,【M1809】【性能】【系统内存】【相机】启动相机进行系统负载测试，在各个界面下均存在Views、Activities不为0,郭松婵,沈晓凯,2018-05-04 15:16
+727847,课题,新建,高,【M1809】【性能】系统负载,郭松婵,"",2018-03-23 11:38
+725165,Flyme Bug管理,已分配,普通,【M1809】【状态栏】点击状态栏设置左边的修改按钮，进入修改界面过渡动画异常,莫进坦,张海辉,2018-05-11 10:17
+723561,Flyme Bug管理,重新打开,高,【M1809】【音频框架】扬声器模式下通话声音小发闷，效果较差,金小燕  ,钱程,2018-05-28 10:04
+723434,Flyme Bug管理,已分配,高,【M1809】【音频框架】手机麦克录制微信的语音消息扬声器播放有轻微杂音,金小燕  ,钱程,2018-05-09 15:55
+723118,Flyme Bug管理,重新打开,高,【M1809】【音频框架】扬声器播放录音机录制的音乐文件、录音文件有轻微杂音，声音偏小，效果较差,金小燕  ,钱程,2018-05-09 15:53
+723103,Flyme Bug管理,重新打开,高,【M1809】【海外第三方APK】VK发送位置信息出错,黄盼,沈晓凯,2018-05-17 19:07
+722995,Flyme Bug管理,已分配,普通,【M1809】【设置】关闭相机权限，在相机权限弹窗界面锁屏后亮屏，权限弹窗重复显示,邱观林,刘添威,2018-04-28 09:19
+722637,Flyme Bug管理,重新打开,普通,【M1809】【第三方应用APK】Snapchat应用摄影界面下方功能键与手机导航键重叠,邱观林,沈晓凯,2018-05-08 16:57
+722623,Flyme Bug管理,重新打开,普通,"【M1809】【第三方应用APK】打开No Crop APP,编辑效果图，输入文本相关的编制，无法保存",黄盼,沈晓凯,2018-05-08 17:01
+722595,Flyme Bug管理,已分配,普通,"【M1809】【第三方应用APK】打开No Crop APP,主题样式加载不出来",黄盼,沈晓凯,2018-05-08 17:00
+721638,Flyme Bug管理,已分配,高,【M1809】【联系人】Exchange账号不能同步到联系人,李振,沈晓凯,2018-05-17 19:08
+719606,Flyme Bug管理,已分配,高,【M1809】【Google助手】连接线控耳机，无法调出语音助手,朱伟,沈晓凯,2018-05-17 19:08
+718544,Flyme Bug管理,已分配,高,【M1809】【蓝牙】使用蓝牙耳机播放微信语音，语音不完整,赵莹,张胜玫,2018-05-23 10:38
+718514,Flyme Bug管理,重新打开,普通,【M1809】【蓝牙】连接车载，出现异常断开现象,赵莹,黄铁山,2018-05-16 17:47
+716418,Flyme Bug管理,已分配,普通,【M1809】【浏览器】手动添加网页书签到桌面不成功,董启劲,沈晓凯,2018-05-17 19:09
+716338,Flyme Bug管理,已分配,高,【M1809】【设置】开启新通知唤醒屏幕，灭屏后来微信消息不会亮屏,黄盼,沈晓凯,2018-05-17 19:09
+716296,Flyme Bug管理,已分配,普通,【M1809】【Google助手】连接蓝牙耳机，无法识别语音,董启劲,沈晓凯,2018-05-17 19:09
+714698,课题,新建,高,【M1809】【CTS】CTS问题父任务,武丹丹,刘振江,2018-06-01 14:15
+713913,Flyme Bug管理,重新打开,高,[M1809][FT_香港][漫游测试]接入当地网络无法连接到Google服务器（always）,廖爱民,沈晓凯,2018-05-21 14:03
+713424,课题,新建,低,【M1809】【性能】系统响应时间,汪星辰,汪星辰,2018-05-07 17:49
+711659,Flyme Bug管理,无法解决,高,【M1809】【兼容性】安装Phogy 3D立体相机，进入应用拍照出现Phogy已停止运行,邱观林,沈晓凯,2018-03-26 11:01
+710810,Flyme Bug管理,已分配,普通,【M1809】【通话设置】非本机设置的移动SIM卡始终转接状态，状态栏不显示始终转接图标,莫进坦,张海辉,2018-05-11 10:17
+710462,Flyme Bug管理,重新打开,高,【M1809】【蓝牙】近距离下，蓝牙吞吐量低于对比机,赵莹,沈晓凯,2018-05-30 20:54
+710441,Flyme Bug管理,已分配,普通,【M1809】【邮件】Gmail收件箱界面点击搜索，不能搜索到结果,黄盼,沈晓凯,2018-05-17 19:10
+710330,Flyme Bug管理,重新打开,普通,【M1809】【通话控制】测试机使用移动卡拨打10086，客服语音传出时，过了3S才更新到通话计时界面,陈立婷,沈晓凯,2018-04-26 15:36
+710209,Flyme Bug管理,暂不处理,高,【M1809】【指示灯】手机低电，指示灯不闪烁,黄盼,沈晓凯,2018-04-28 15:49
+693763,Flyme Bug管理,重新打开,高,【M1809】【邮件】收件箱界面点击搜索，不能搜索到结果,宗程晨,沈晓凯,2018-05-17 19:10
+693243,Flyme Bug管理,已分配,普通,【M1809】【通话控制】蓝牙耳机接听电话过程中关闭耳机，闪现电话图标,余豪,张海军,2018-05-07 13:32
